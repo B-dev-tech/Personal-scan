@@ -1,28 +1,28 @@
-Personal Scan
+🔒 Personal Scan
 
 Project by B dev (2025)
 
 Personal Scan is a CLI Python tool to check whether your email appears in public data breaches using legal and trusted sources like Have I Been Pwned (HIBP) API.
-No dark web scanning or illegal methods are used — this project is fully defensive and legal.
+No dark web scanning or illegal methods are used — this project is fully defensive and legal. ✅
 
 
 ---
 
-Main Files
+📂 Main Files
 
-scan.py — main Python script
+scan.py — main Python script 🐍
 
-pscan — Linux/Mac shell script to run scan.py
+pscan — Linux/Mac shell script to run scan.py 💻
 
-pscan.bat — Windows batch file to run scan.py
+pscan.bat — Windows batch file to run scan.py 🖥️
 
-README.md — this file
+README.md — this file 📖
 
 
 
 ---
 
-Installation
+⚙️ Installation
 
 1. Clone the repository
 
@@ -51,7 +51,7 @@ chmod +x pscan
 
 ---
 
-Optional: Run pscan from anywhere
+🚀 Optional: Run pscan from anywhere
 
 You can run pscan start --rich without ./ by:
 
@@ -68,7 +68,7 @@ source ~/.bashrc  # or ~/.zshrc
 
 ---
 
-How to Use
+🖥️ How to Use
 
 Linux / Mac
 
@@ -80,16 +80,16 @@ pscan.bat start --rich
 
 Example output:
 
-Welcome to personal scan
+🔹 Welcome to personal scan
 By B dev
 
 Type your email
 Example: example@gmail.com
 > user@example.com
 
-Starting scan.....
+⏳ Starting scan.....
 
-Scan successfully
+✅ Scan successfully
 Email : user@example.com
 Security : Good / Bad
 > You don't have any leaked data
@@ -98,3 +98,6 @@ Security : Good / Bad
 
 
 ---
+
+
+
