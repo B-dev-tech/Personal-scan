@@ -70,6 +70,10 @@ source ~/.bashrc  # or ~/.zshrc
 
 🖥️ How to Use
 
+In easy way you can type
+
+python scan.py start --rich
+
 Linux / Mac
 
 pscan start --rich
